@@ -2,8 +2,11 @@
 
 if (map != null) {
 
-    var latitude = $('#map').data('latitude');// 1.282387;
-    var longitude = $('#map').data('longitude');//103.850243
+    /*var latitude = $('#map').data('latitude');// 1.282387;
+    var longitude = $('#map').data('longitude');//103.850243*/
+
+    var latitude = $('#map').data('latitude');// 36.8485;
+    var longitude = $('#map').data('longitude');//174.7633
 
     if (latitude != null && longitude != null) {
 
@@ -22,7 +25,7 @@ if (map != null) {
                 zoom: 15,
 
                 // The latitude and longitude to center the map (always required)
-                center: new google.maps.LatLng(latitude, longitude), // Singapore
+                center: new google.maps.LatLng(latitude, longitude), // Singapore (no! - AKL)
 
                 // Disables the default Google Maps UI components
                 disableDefaultUI: true,
