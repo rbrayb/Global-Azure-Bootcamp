@@ -1,12 +1,12 @@
 ﻿{
   "Event": {
-    "Date": "22-04-2017"
+    "Date": "21-04-2018"
   },
   "Location": {
-    "Name": "Singapore",
-    "Latitude": 1.282387,
-    "Longitude": 103.850243,
-    "Address": "One Marina Boulevard, Singapore"
+    "Name": "Auckland",
+    "Latitude": 36.8485,
+    "Longitude": 174.7633,
+    "Address": "Cliftons, Queen Street, Auckland"
   },
   "Social": {
     "Meetup": "https://www.meetup.com/mssgug/events/236349222",

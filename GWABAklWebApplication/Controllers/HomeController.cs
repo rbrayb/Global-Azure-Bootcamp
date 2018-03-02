@@ -23,8 +23,8 @@ namespace bootcamp.Controllers
         {
             Configuration = configuration;
         }
-        public async Task<IActionResult> Index(string proxyUrl = "https://github.com/punitganshani/azurebootcamp-data/raw/master/2017/locations/singapore/data.json")
-        //public Task<IActionResult> Index(string proxyUrl = "~/akldata.json")
+        //public async Task<IActionResult> Index(string proxyUrl = "https://github.com/punitganshani/azurebootcamp-data/raw/master/2017/locations/singapore/data.json")
+        public IActionResult Index(string proxyUrl = "~/akldata.json")
         {
             var appSettings = Configuration.Value;
             string location = appSettings.Location;
