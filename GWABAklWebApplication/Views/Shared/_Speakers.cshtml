@@ -55,7 +55,7 @@
                             {
                                 @if (!String.IsNullOrEmpty(speaker.Social.Website))
                                 {
-                                    <a href="@speaker.Social.Website" class="speakersocial"><i class="fa fa-group fa-fw"></i></a>
+                                    <a href="@speaker.Social.Website" class="speakersocial"><i class="fa fa-globe fa-fw"></i></a>
                                 }
                                 @if (!String.IsNullOrEmpty(speaker.Social.Meetup))
                                 {
@@ -72,6 +72,10 @@
                                 @if (!String.IsNullOrEmpty(speaker.Social.Google))
                                 {
                                     <a href="@speaker.Social.Google" class="speakersocial"><i class="fa fa-google fa-fw"></i></a>
+                                }
+                                @if (!String.IsNullOrEmpty(speaker.Social.LinkedIn))
+                                {
+                                    <a href="@speaker.Social.LinkedIn" class="speakersocial"><i class="fa fa-linkedin fa-fw"></i></a>
                                 }
                             }
                         </div>

@@ -37,9 +37,7 @@
   ],
   "Sponsors": [
     {
-      "ImageUrl": "/images/msft.png",
-      "Link": "https://www.microsoft.co.nz",
-      "Name": "Microsoft NZ"
+
     }
   ],
   "Prizes": [
@@ -90,7 +88,7 @@
           "Speaker": {
             "Name": "Manfred Lange",
             "Organization": "Urnextgig",
-            "Description": "This session will walk you through two serverless offering from Azure: Functions which enables you to host and execute your code and Logic Apps which is the managed-workflow on the cloud",
+            "Description": "MaNFRED IS ...",
             "ImageUrl": "/images/ManfredLange.jpg",
             "Social": {
               "Twitter": "http://www.twitter.com/pomealan",
@@ -139,11 +137,11 @@
               "LinkedIn": "https://www.linkedin.com/in/bernardoleary/"            }
           }
         },
-        
+
         {
           "SessionId": "Common6",
           "Time": "4:30 PM - 5:00 PM",
-          "Title": "Wrapup / prizes"
+          "Title": "Wrap-up / Giveaways"
         }
       ]
     },
