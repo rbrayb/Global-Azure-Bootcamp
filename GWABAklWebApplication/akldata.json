@@ -4,84 +4,50 @@
   },
   "Location": {
     "Name": "Auckland",
-    "Latitude": 36.8485,
-    "Longitude": 174.7633,
-    "Address": "Cliftons, Queen Street, Auckland"
+    "Latitude": 36.844806,
+    "Longitude": 174.766247,
+    "Address": "Cliftons, 45 Queen Street, Auckland, NZ"
   },
   "Social": {
     //"Meetup": "https://global.azurebootcamp.net/",
-    "GAB": "https://global.azurebootcamp.net/",
-    "Facebook": "https://www.facebook.com",
-    "Twitter":  "https://www.twitter.com"
+    "GAB": "https://auckland.azurebootcamp.net/",
+    "Facebook": "https://www.facebook.com/globalazure",
+    "Twitter":  "https://twitter.com/hashtag/GlobalAzure"
   },
   "Callout": {
-    "Text": "RSVP Today ",
-    //"Link": "https://www.meetup.com/mssgug/events/236349222",
-    "Link": "https://cliftons.co.nz",
+    "Text": "Click Here to Reserve Your Place Today!",
+    "Link": "https://www.microsoftevents.com/profile/3775833",
     "Type": "default"
   },
   "Organizers": [
     {
       "Name": "Nick Westbrook",
       "Social": {
-        "Twitter": "http://www.twitter.com/nickw"
+        "Twitter": "https://www.twitter.com/nickwestbrook",
+        "LinkedIn": "https://www.linkedin.com/in/nickwestbrook"
       }
     },
     {
       "Name": "Rory Braybrook",
       "Social": {
-        "Twitter": "http://www.twitter.com/rbrayb"
+        "Twitter": "http://www.twitter.com/rbrayb",
+        "LinkedIn": "https://www.linkedin.com/in/rory-braybrook-6050a521/"
       }
     }
-      //},
-      //{
-      //  "Name": "Sakthis Kumar",
-      //  "Social": {
-      //    "Email": "sakthis@sakthis.net"
-      //  }
-      //},
-      //{
-      //  "Name": "Senthamil Selvan",
-      //  "Social": {
-      //    "Email": "altfo@hotmail.com"
-      //  }
-      //},
-      //{
-      //  "Name": "Alvin Lau",
-      //  "Social": {
-      //    "Email": "microlau@gmail.com"
-      //  }
-      //}
   ],
   "Sponsors": [
-
+    {
+      "ImageUrl": "/images/msft.png",
+      "Link": "https://www.microsoft.co.nz",
+      "Name": "Microsoft NZ"
+    }
   ],
   "Prizes": [
-    //{
-    //  "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/xbox.jpg",
-    //  "Link": "http://www.xbox.com/en-SG/xbox-one",
-    //  "Name": "Xbox One"
-    //},
-    //{
-    //  "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/msiotkit.jpg",
-    //  "Link": "https://www.adafruit.com/products/2733",
-    //  "Name": "Microsoft IoT Kit / RPi 3"
-    //},
-    //{
-    //  "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/rpi31.jpg",
-    //  "Link": "http://sg.element14.com/buy-raspberry-pi?ICID=I-HP-PP-raspberrypi-bundle-boards-01",
-    //  "Name": "Raspberry Pi 3"
-    //},
     {
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/azpass1.png",
       "Link": "#",
-      "Name": "Azure Passes"
+      "Name": "$300 in Azure Credit"
     },
-    //{
-    //  "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/USB.png",
-    //  "Link": "#",
-    //  "Name": "USB Drives"
-    //},
     {
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
       "Link": "#",
@@ -96,38 +62,40 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 10.00 AM",
-          "Title": "Registration and set up"
+          "Title": "Registration and Set Up"
         },
         
         {
           "SessionId": "DEV1",
           "Time": "10:00 AM - 11:30 AM",
-          "Title": "Session 1 preso, lab, morning tea if finished early",
-          "Room": "22CF12",
+          "Title": "Session Title TBC",
+          "Room": "Session overview coming soon...",
           "Speaker": {
-            "Name": "Puneet Ghanshani",
-            "Organization": "Microsoft",
-            "Description": "Bots aren't introverts, but can they strike a meaningful conversation with you? This session will take you in a flight to building a Bot with natural language processing and an intelligence of a human, hosting it on Azure and accessing through a digital channel of your choice. Puneet an Architect in Microsoft, helps customers envision their digital journey, modernise enterprise technology landscape and build cloud and cross platform device apps. He has authored a book and 22+ articles in international magazines and spoken in 30+ conferences. He is active on www.ganshani.com and on MSDN blogs",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
+            "Name": "Alan Marshall",
+            "Organization": "Provoke",
+            "Description": "Alan is a consultant at Provoke... ",
+            "ImageUrl": "/images/AlanMarshall.jpg",
             "Social": {
-              "Twitter": "http://www.twitter.com/ganshani",
+              "Twitter": "http://www.twitter.com/pomealan",
               "Website": "http://www.ganshani.com",
-              "Facebook": "http://www.facebook.com/PunitBGanshani"
+              "LinkedIn": "https://www.linkedin.com/in/alan-marshall-2679803"
             }
           }
         },
         {
           "SessionId": "DEV2",
           "Time": "11:30 AM - 01:00 PM",
-          "Title": "Session 2 preso, lab",
-          "Room": "22CF12",
+          "Title": "Session Title TBC",
+          "Room": "Session overview coming soon...",
           "Speaker": {
-            "Name": "Wely Lau",
-            "Organization": "Microsoft",
+            "Name": "Manfred Lange",
+            "Organization": "Urnextgig",
             "Description": "This session will walk you through two serverless offering from Azure: Functions which enables you to host and execute your code and Logic Apps which is the managed-workflow on the cloud",
-            "ImageUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAtEAAAAJDU3ZDIxMjdiLTQzYTItNDQ2Mi1hNjY0LWVkMTgyODcxMjFiZQ.jpg",
+            "ImageUrl": "/images/ManfredLange.jpg",
             "Social": {
-              "Website": "http://wely-lau.net/"
+              "Twitter": "http://www.twitter.com/pomealan",
+              "Website": "http://www.manfred-lange.com/",
+              "LinkedIn": "https://www.linkedin.com/in/manfredlange/"
             }
           }
         },
@@ -140,14 +108,17 @@
         {
           "SessionId": "DEV4",
           "Time": "1:30 PM - 3:00 PM",
-          "Title": "Session 3 preso, lab, afternoon tea if finished early",
-          "Room": "22CF12",
+          "Title": "Session Title TBC",
+          "Room": "Session overview coming soon...",
           "Speaker": {
-            "Name": "Sohel Shekha",
-            "Organization": "MVP",
+            "Name": "Bernard O'Leary",
+            "Organization": "Provoke",
             "Description": "Xamarin Mobile Lead",
-            "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002598",
+            "ImageUrl": "/images/BernardOLeary.jpg",
             "Social": {
+              "Twitter": "http://www.twitter.com/bernardoleary",
+              "Website": "http://www.bernard.com/",
+              "LinkedIn": "https://www.linkedin.com/in/bernardoleary/"
             }
           }
         },
@@ -155,16 +126,17 @@
         {
           "SessionId": "DEV5",
           "Time": "3:00 PM - 4:30 PM",
-          "Title": "Session 4 preso, lab",
-          "Room": "22CF12",
+          "Title": "Session Title TBC",
+          "Room": "Session overview coming soon...",
           "Speaker": {
-            "Name": "Ben ishiyama-levy",
-            "Organization": "MVP",
-            "Description": "Visual Studio Mobile Center: This new platform aggregates tools from azure, and other mobile offerings under one brand. In this session, we'll dig each features in details and demo real life scenarios, Test (Xamarin TestCloud), Distribute (HockeyApp), Crashes (part of HockeyApp), Analytic (Xamarin Insights), Tables (Repository: Connected to Azure), Identity (Authentication: Connected to Azure)",
-            "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002408",
+            "Name": "William Wang & Daniel Zollinger",
+            "Organization": "IAG",
+            "Description": "Willian and Daniel are developers at AIG...",
+            "ImageUrl": "/images/WilliamDaniel.jpg",
             "Social": {
-              "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5002408?fullName=ben%20%20ishiyama-levy"
-            }
+              "Twitter": "http://www.twitter.com/bernardoleary",
+              "Website": "http://www.bernard.com/",
+              "LinkedIn": "https://www.linkedin.com/in/bernardoleary/"            }
           }
         },
         
@@ -188,32 +160,34 @@
         {
           "SessionId": "ITPRO1",
           "Time": "10:00 AM - 11:30 AM",
-          "Title": "Session 1 preso, lab, morning tea if finished early",
-          "Room": "22CF12",
+          "Title": "Session Title TBC",
+          "Room": "Session overview coming soon...",
           "Speaker": {
-            "Name": "Puneet Ghanshani",
-            "Organization": "Microsoft",
-            "Description": "Bots aren't introverts, but can they strike a meaningful conversation with you? This session will take you in a flight to building a Bot with natural language processing and an intelligence of a human, hosting it on Azure and accessing through a digital channel of your choice. Puneet an Architect in Microsoft, helps customers envision their digital journey, modernise enterprise technology landscape and build cloud and cross platform device apps. He has authored a book and 22+ articles in international magazines and spoken in 30+ conferences. He is active on www.ganshani.com and on MSDN blogs",
-            "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2016/locations/singapore/punitganshani.jpg",
+            "Name": "Nick Westbrook",
+            "Organization": "[MVP] Provoke",
+            "Description": "Nick Overview",
+            "ImageUrl": "/images/NickWestbrook.jpg",
             "Social": {
-              "Twitter": "http://www.twitter.com/ganshani",
-              "Website": "http://www.ganshani.com",
-              "Facebook": "http://www.facebook.com/PunitBGanshani"
+              "Twitter": "http://www.twitter.com/nickwestbrook",
+              "Website": "http://www.nickwestbrook.net",
+              "LinkedIn": "http://www.linkedin.com/in/nickwestbrook"
             }
           }
         },
         {
           "SessionId": "ITPRO2",
           "Time": "11:30 AM - 01:00 PM",
-          "Title": "Session 2 preso, lab",
-          "Room": "22CF12",
+          "Title": "Session Title TBC",
+          "Room": "Session overview coming soon...",
           "Speaker": {
-            "Name": "Wely Lau",
-            "Organization": "Microsoft",
+            "Name": "Buddy Davies",
+            "Organization": "Provoke",
             "Description": "This session will walk you through two serverless offering from Azure: Functions which enables you to host and execute your code and Logic Apps which is the managed-workflow on the cloud",
-            "ImageUrl": "https://media.licdn.com/media/AAEAAQAAAAAAAAtEAAAAJDU3ZDIxMjdiLTQzYTItNDQ2Mi1hNjY0LWVkMTgyODcxMjFiZQ.jpg",
+            "ImageUrl": "/images/BuddyDavies.jpg",
             "Social": {
-              "Website": "http://wely-lau.net/"
+              "Twitter": "http://www.twitter.com/buddydavies",
+              "Website": "http://www.buddy.net",
+              "LinkedIn": "https://www.linkedin.com/in/buddy-davies-72437352/"
             }
           }
         },
@@ -226,14 +200,17 @@
         {
           "SessionId": "ITPRO4",
           "Time": "1:30 PM - 3:00 PM",
-          "Title": "Session 3 preso, lab, afternoon tea if finished early",
-          "Room": "22CF12",
+          "Title": "Session Title TBC",
+          "Room": "Session overview coming soon...",
           "Speaker": {
-            "Name": "Sohel Shekha",
-            "Organization": "MVP",
+            "Name": "Daniel Scott-Raynsford",
+            "Organization": "[MVP] IAG",
             "Description": "Xamarin Mobile Lead",
-            "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002598",
+            "ImageUrl": "/images/DanScottRaynsford.jpg",
             "Social": {
+              "Twitter": "http://www.twitter.com/dan",
+              "Website": "http://www.buddy.net",
+              "LinkedIn": "https://www.linkedin.com/in/buddy-davies-72437352/"
             }
           }
         },
@@ -241,15 +218,17 @@
         {
           "SessionId": "ITPRO5",
           "Time": "3:00 PM - 4:30 PM",
-          "Title": "Session 4 preso, lab",
-          "Room": "22CF12",
+          "Title": "Session Title TBC",
+          "Room": "Session overview coming soon...",
           "Speaker": {
-            "Name": "Ben ishiyama-levy",
-            "Organization": "MVP",
-            "Description": "Visual Studio Mobile Center: This new platform aggregates tools from azure, and other mobile offerings under one brand. In this session, we'll dig each features in details and demo real life scenarios, Test (Xamarin TestCloud), Distribute (HockeyApp), Crashes (part of HockeyApp), Analytic (Xamarin Insights), Tables (Repository: Connected to Azure), Identity (Authentication: Connected to Azure)",
-            "ImageUrl": "https://mvp.microsoft.com/en-us/PublicProfile/Photo/5002408",
+            "Name": "Aben Samuel",
+            "Organization": "Equinox IT",
+            "Description": "Aben's intro",
+            "ImageUrl": "/images/AbenSamuel.jpg",
             "Social": {
-              "Website": "https://mvp.microsoft.com/en-us/PublicProfile/5002408?fullName=ben%20%20ishiyama-levy"
+              "Twitter": "http://www.twitter.com/dan",
+              "Website": "http://www.wellytonian.com",
+              "LinkedIn": "https://www.linkedin.com/in/buddy-davies-72437352/"
             }
           }
         },
@@ -257,7 +236,7 @@
         {
           "SessionId": "Common6",
           "Time": "4:30 PM - 5:00 PM",
-          "Title": "Wrapup / prizes"
+          "Title": "Wrap-up / Giveaways"
         }
       ]
     }
