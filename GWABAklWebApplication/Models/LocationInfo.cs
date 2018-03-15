@@ -137,7 +137,7 @@ namespace bootcamp.Models
         public string Google { get; set; }
         public string Website { get; set; }
         public string GAB { get; set; }
-
+        public string LinkedIn { get; set; }
         public string Email { get; set; }
 
     }
