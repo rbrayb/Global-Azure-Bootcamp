@@ -21,17 +21,19 @@
   },
   "Organizers": [
     {
-      "Name": "Nick Westbrook<br/> Auckland Microsoft Cloud User Group",
+      "Name": "Nick Westbrook - Auckland Microsoft Cloud User Group",
       "Social": {
         "Twitter": "https://www.twitter.com/nickwestbrook",
-        "LinkedIn": "https://www.linkedin.com/in/nickwestbrook"
+        "LinkedIn": "https://www.linkedin.com/in/nickwestbrook",
+        "Website": "https://secure.meetup.com/messages/?new_convo=true&member_id=118434052&name=Nick+Westbrook"
       }
     },
     {
-      "Name": "Rory Braybrook<br/> North Shore .net User Group",
+      "Name": "Rory Braybrook - North Shore .net User Group",
       "Social": {
         "Twitter": "http://www.twitter.com/rbrayb",
-        "LinkedIn": "https://www.linkedin.com/in/rory-braybrook-6050a521/"
+        "LinkedIn": "https://www.linkedin.com/in/rory-braybrook-6050a521/",
+        "Website": "http://northshore.netusergroup.org.nz/"
       }
     }
   ],
@@ -60,7 +62,7 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 10.00 AM",
-          "Title": "Registration, Welcome and Set Up"
+          "Title": "Registration / Welcome / Set Up"
         },
         
         {
@@ -149,7 +151,7 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 10.00 AM",
-          "Title": "Registration and set up"
+          "Title": "Registration / Welcome / Set Up"
         },
         
         {
