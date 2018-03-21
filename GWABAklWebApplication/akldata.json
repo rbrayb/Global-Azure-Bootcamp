@@ -21,14 +21,14 @@
   },
   "Organizers": [
     {
-      "Name": "Nick Westbrook",
+      "Name": "Nick Westbrook<br/> Auckland Microsoft Cloud User Group",
       "Social": {
         "Twitter": "https://www.twitter.com/nickwestbrook",
         "LinkedIn": "https://www.linkedin.com/in/nickwestbrook"
       }
     },
     {
-      "Name": "Rory Braybrook",
+      "Name": "Rory Braybrook<br/> North Shore .net User Group",
       "Social": {
         "Twitter": "http://www.twitter.com/rbrayb",
         "LinkedIn": "https://www.linkedin.com/in/rory-braybrook-6050a521/"
@@ -160,7 +160,7 @@
           "Speaker": {
             "Name": "Nick Westbrook",
             "Organization": "Microsoft MVP / Provoke Solutions",
-            "Description": "Nick Overview",
+            "Description": "Nick is a Microsoft Azure MVP and lead cloud infrastructure engineer at Provoke Solutions in Auckland. He has 17 years experience in helping businesses derive benefit from Microsoft technologies and enjoys sharing his learnings with the community through his co-leadership of the Auckland Microsoft Cloud User Group. ",
             "ImageUrl": "/images/NickWestbrook.jpg",
             "Social": {
               "Twitter": "http://www.twitter.com/nickwestbrook",
