@@ -42,14 +42,14 @@
   ],
   "Prizes": [
     {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/azpass1.png",
+      "ImageUrl": "/images/AzurePass.jpg",
       "Link": "#",
       "Name": "$300 in Azure Credit"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
+      "ImageUrl": "/images/AzureLogo.png",
       "Link": "#",
-      "Name": "More Giveaways Coming Soon"
+      "Name": "T-shirts, stickers and more!"
     }
   ],
 
