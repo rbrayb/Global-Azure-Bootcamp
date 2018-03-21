@@ -16,7 +16,7 @@
   },
   "Callout": {
     "Text": "Click Here to Reserve Your Place Today!",
-    "Link": "https://www.microsoftevents.com/profile/3775833",
+    "Link": "https://aka.ms/AzureBootcampAKL18",
     "Type": "default"
   },
   "Organizers": [
@@ -49,7 +49,7 @@
     {
       "ImageUrl": "https://raw.githubusercontent.com/punitganshani/azurebootcamp-data/master/2017/locations/singapore/comingsoon.png",
       "Link": "#",
-      "Name": "Coming Soon"
+      "Name": "More Giveaways Coming Soon"
     }
   ],
 
@@ -60,7 +60,7 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 10.00 AM",
-          "Title": "Registration and Set Up"
+          "Title": "Registration, Welcome and Set Up"
         },
         
         {
@@ -70,12 +70,11 @@
           "Room": "Session overview coming soon...",
           "Speaker": {
             "Name": "Alan Marshall",
-            "Organization": "Provoke",
-            "Description": "Alan is a consultant at Provoke... ",
+            "Organization": "Microsoft MVP / Provoke Solutions",
+            "Description": "As a senior consultant at Provoke, Alan works with many organisations on architecting solutions that leverage Office 365 and Azure services to build solutions that address business needs or strategic initiatives.  He facilitate workshops to formulate ideas and translate these into possible solutions leveraging Azure services primarily in the AI space in the last 2 years.",
             "ImageUrl": "/images/AlanMarshall.jpg",
             "Social": {
               "Twitter": "http://www.twitter.com/pomealan",
-              "Website": "http://www.ganshani.com",
               "LinkedIn": "https://www.linkedin.com/in/alan-marshall-2679803"
             }
           }
@@ -86,14 +85,14 @@
           "Title": "Session Title TBC",
           "Room": "Session overview coming soon...",
           "Speaker": {
-            "Name": "Manfred Lange",
-            "Organization": "Urnextgig",
-            "Description": "MaNFRED IS ...",
-            "ImageUrl": "/images/ManfredLange.jpg",
+            "Name": "Rory Braybrook",
+            "Organization": "Datacom",
+            "Description": "Rory is an architect at Datacom NZ working in the Microsoft Identity space delivering systems based on the Microsoft Identity stack.",
+            "ImageUrl": "/images/RoryBraybrook.jpg",
             "Social": {
-              "Twitter": "http://www.twitter.com/pomealan",
-              "Website": "http://www.manfred-lange.com/",
-              "LinkedIn": "https://www.linkedin.com/in/manfredlange/"
+              "Twitter": "http://www.twitter.com/rbrayb",
+              "Website": "https://medium.com/the-new-control-plane",
+              "LinkedIn": "https://www.linkedin.com/in/rory-braybrook-6050a521/"
             }
           }
         },
@@ -110,12 +109,11 @@
           "Room": "Session overview coming soon...",
           "Speaker": {
             "Name": "Bernard O'Leary",
-            "Organization": "Provoke",
-            "Description": "Xamarin Mobile Lead",
+            "Organization": "Provoke Solutions",
+            "Description": "Bernard is a solutions architect at Provoke Solutions, boasting a depth of experience in a broad range of areas. With core skill sets in both Microsoft custom software development, and open source development, his range of commercial experience give him the advantage of understanding technology across the board. With vast experience in agile methodologies, Bernard brings a unique combination of technical understanding and the ability to facilitate teams to brainstorm solutions collaboratively. His expertise in solution architecture allows him to clarify ideas into high quality technical solutions.",
             "ImageUrl": "/images/BernardOLeary.jpg",
             "Social": {
               "Twitter": "http://www.twitter.com/bernardoleary",
-              "Website": "http://www.bernard.com/",
               "LinkedIn": "https://www.linkedin.com/in/bernardoleary/"
             }
           }
@@ -127,14 +125,13 @@
           "Title": "Session Title TBC",
           "Room": "Session overview coming soon...",
           "Speaker": {
-            "Name": "William Wang & Daniel Zollinger",
-            "Organization": "IAG",
-            "Description": "Willian and Daniel are developers at AIG...",
-            "ImageUrl": "/images/WilliamDaniel.jpg",
+            "Name": "William Wang",
+            "Organization": "IAG NZ",
+            "Description": "William is a software developer at IAG New Zealand and has over 9 years experience developing web and WinForms based applications including Enterprise-level .net applications.",
+            "ImageUrl": "/images/WilliamWang.jpg",
             "Social": {
-              "Twitter": "http://www.twitter.com/bernardoleary",
-              "Website": "http://www.bernard.com/",
-              "LinkedIn": "https://www.linkedin.com/in/bernardoleary/"            }
+
+            }
           }
         },
 
@@ -162,7 +159,7 @@
           "Room": "Session overview coming soon...",
           "Speaker": {
             "Name": "Nick Westbrook",
-            "Organization": "[MVP] Provoke",
+            "Organization": "Microsoft MVP / Provoke Solutions",
             "Description": "Nick Overview",
             "ImageUrl": "/images/NickWestbrook.jpg",
             "Social": {
@@ -179,12 +176,11 @@
           "Room": "Session overview coming soon...",
           "Speaker": {
             "Name": "Buddy Davies",
-            "Organization": "Provoke",
-            "Description": "This session will walk you through two serverless offering from Azure: Functions which enables you to host and execute your code and Logic Apps which is the managed-workflow on the cloud",
+            "Organization": "Provoke Solutions",
+            "Description": "Buddy is a senior cloud engineer at Provoke in Auckland and spends his days architecting and building Azure infrastructure for some of NZ's most well-known companies as well as helping them migrate current systems to the cloud. He also has a keen interest in DevOps practices and enjoys leveraging automation to improve process efficiencies.",
             "ImageUrl": "/images/BuddyDavies.jpg",
             "Social": {
               "Twitter": "http://www.twitter.com/buddydavies",
-              "Website": "http://www.buddy.net",
               "LinkedIn": "https://www.linkedin.com/in/buddy-davies-72437352/"
             }
           }
@@ -202,13 +198,13 @@
           "Room": "Session overview coming soon...",
           "Speaker": {
             "Name": "Daniel Scott-Raynsford",
-            "Organization": "[MVP] IAG",
-            "Description": "Xamarin Mobile Lead",
+            "Organization": "Microsoft MVP / IAG NZ",
+            "Description": "Daniel has spent 16 years as a software developer, but always had a lot of love for the infrastructure that kept his services running. Through combining the power and flexibility of cloud computing and modern DevOps and development practices he has seen what can really be achieved. His passion is to share these modern principals and techniques with IT pros and developers alike – and to automate everything he can with PowerShell.",
             "ImageUrl": "/images/DanScottRaynsford.jpg",
             "Social": {
-              "Twitter": "http://www.twitter.com/dan",
-              "Website": "http://www.buddy.net",
-              "LinkedIn": "https://www.linkedin.com/in/buddy-davies-72437352/"
+              "Twitter": "http://www.twitter.com/dscottraynsford",
+              "Website": "https://dscottraynsford.wordpress.com",
+              "LinkedIn": "https://www.linkedin.com/in/dscottraynsford"
             }
           }
         },
@@ -221,12 +217,12 @@
           "Speaker": {
             "Name": "Aben Samuel",
             "Organization": "Equinox IT",
-            "Description": "Aben's intro",
+            "Description": "Aben is a cloud solutions architect with an established track record of over 10 years of experience in helping organisations to efficiently use their networks and other systems. Ensuring that the design of an organisations IT platform allows all of the components, including computers, the network, software and people, to fit together and work properly.",
             "ImageUrl": "/images/AbenSamuel.jpg",
             "Social": {
-              "Twitter": "http://www.twitter.com/dan",
+              "Twitter": "http://www.twitter.com/neop26",
               "Website": "http://www.wellytonian.com",
-              "LinkedIn": "https://www.linkedin.com/in/buddy-davies-72437352/"
+              "LinkedIn": "https://www.linkedin.com/in/abensamuel/"
             }
           }
         },
