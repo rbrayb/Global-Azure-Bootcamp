@@ -107,7 +107,7 @@
         {
           "SessionId": "DEV4",
           "Time": "1:30 PM - 3:00 PM",
-          "Title": "Serverless and Containerised Microservices Architecture for Solutions on Azure",
+          "Title": "Serverless and Containerised Microservices Architectures on Azure",
           "Room": "This session will warm up with a discussion covering some key concepts, literature and history around serverless and microservices architecture (including containerisation). Opinions on appropriate – and inappropriate – use-cases for these architectures will be ventured. We’ll look at common hosting patterns and hosting options, including Windows Azure. The majority of the session will be workshop oriented – we’ll step through the process of getting a simple microservices application running on Docker on your local machine and deployed on to Azure managed Kubernetes Service (AKS).",
           "Speaker": {
             "Name": "Bernard O'Leary",
