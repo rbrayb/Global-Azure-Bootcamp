@@ -107,8 +107,8 @@
         {
           "SessionId": "DEV4",
           "Time": "1:30 PM - 3:00 PM",
-          "Title": "Session Title TBC",
-          "Room": "Session overview coming soon...",
+          "Title": "Serverless and Containerised Microservices Architecture for Solutions on Azure",
+          "Room": "This session will warm up with a discussion covering some key concepts, literature and history around serverless and microservices architecture (including containerisation). Opinions on appropriate – and inappropriate – use-cases for these architectures will be ventured. We’ll look at common hosting patterns and hosting options, including Windows Azure. The majority of the session will be workshop oriented – we’ll step through the process of getting a simple microservices application running on Docker on your local machine and deployed on to Azure managed Kubernetes Service (AKS).",
           "Speaker": {
             "Name": "Bernard O'Leary",
             "Organization": "Provoke Solutions",
@@ -196,8 +196,8 @@
         {
           "SessionId": "ITPRO4",
           "Time": "1:30 PM - 3:00 PM",
-          "Title": "Session Title TBC",
-          "Room": "Session overview coming soon...",
+          "Title": "Two Ways to run Web Sites in Azure",
+          "Room": "In this talk and hands-on workshop we’ll show two different approaches to running a web site (or web application) in Azure: The traditional Infrastructure as a Service (IaaS) approach and the “let Azure take care of it” approach of Platform as a Service (PaaS). Both approaches have their advantages and drawbacks. Knowing when and how to use each approach will give you an edge by helping you select the best solution for your needs.",
           "Speaker": {
             "Name": "Daniel Scott-Raynsford",
             "Organization": "Microsoft MVP / IAG NZ",
