@@ -84,8 +84,8 @@
         {
           "SessionId": "DEV2",
           "Time": "11:30 AM - 01:00 PM",
-          "Title": "Session Title TBC",
-          "Room": "Session overview coming soon...",
+          "Title": "A Lap Around Azure AD for Developers",
+          "Room": "In this session we'll look at the main features of Azure AD and how they fit together. We'll cover the different protocols and when to use which. We will look at the differences between web and native devices and how ADAL / MSAL fits into the picture.<br/>The lab session will give attendees a chance to hook up an application with Azure AD so that users can successfully authenticate.<br/>Attendees can choose between mobile / desktop / web / SPA / web API and service to service.<br/>We'll also look at 'Easy Auth' – a no code offering.<br/><br/>Visual Studio (preferably 2017) is required.",
           "Speaker": {
             "Name": "Rory Braybrook",
             "Organization": "Datacom",
