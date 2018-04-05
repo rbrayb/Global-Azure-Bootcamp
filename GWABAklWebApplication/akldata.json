@@ -120,12 +120,12 @@
             }
           }
         },
-        
+
         {
           "SessionId": "DEV5",
           "Time": "3:00 PM - 4:30 PM",
-          "Title": "Session Title TBC",
-          "Room": "Session overview coming soon...",
+          "Title": "Build and Deploy a Web API using Azure Functions and CosmosDB",
+          "Room": "This session will cover an introduction to Functions-As-A-Service offerings in Azure. We will take you through quickly building and deploying a web API using Azure Functions and CosmosDB and also give a quick demo on Event Driven Architecture with Functions and Azure Service Bus.",
           "Speaker": {
             "Name": "William Wang",
             "Organization": "IAG NZ",
@@ -153,12 +153,12 @@
           "Time": "9:00 AM - 10.00 AM",
           "Title": "Registration / Welcome / Set Up"
         },
-        
+
         {
           "SessionId": "ITPRO1",
           "Time": "10:00 AM - 11:30 AM",
-          "Title": "Session Title TBC",
-          "Room": "Session overview coming soon...",
+          "Title": "A Practical Guide to Azure Administration",
+          "Room": "While it's super easy for anyone to build services in Azure, the number of resources can quickly get out of hand. What are they for? Who's looking after them? Do they pose a security threat? Are you wasting money having them running? In this session we'll take a look at some of the ways Azure helps us keep things in check including tags, policy, RBAC, Security Center, Azure Monitor, Cost Management and more. Your boss will love you for it!",
           "Speaker": {
             "Name": "Nick Westbrook",
             "Organization": "Microsoft MVP / Provoke Solutions",
@@ -214,8 +214,8 @@
         {
           "SessionId": "ITPRO5",
           "Time": "3:00 PM - 4:30 PM",
-          "Title": "Session Title TBC",
-          "Room": "Session overview coming soon...",
+          "Title": "Wandering into Azure via Scripts and Automation",
+          "Room": "A quick drive by of 4, ok, 5 PowerPoint slides, we will quickly get into scripting and be deploying our highly available and redundant Azure platform that would host a public facing website. Through the hands-on workshop, we will look at some basics of writing ARM scripts, tools to write and deploy them and why not dabble a  touch of DevOps, we will even check out some basics of GitHub for automated deployment.",
           "Speaker": {
             "Name": "Aben Samuel",
             "Organization": "Equinox IT",
