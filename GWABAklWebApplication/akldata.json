@@ -174,8 +174,8 @@
         {
           "SessionId": "ITPRO2",
           "Time": "11:30 AM - 01:00 PM",
-          "Title": "Session Title TBC",
-          "Room": "Session overview coming soon...",
+          "Title": "Replicate, Backup & Migrate in Azure",
+          "Room": "In this session we will take a look into the ways you can leverage Azure Site Recovery Service, Azure Backup and other Azure services when tasked with addressing Business Continuity, Disaster Recovery & even VM migration for your organisation.",
           "Speaker": {
             "Name": "Buddy Davies",
             "Organization": "Provoke Solutions",
