@@ -64,12 +64,12 @@
           "Time": "9:00 AM - 10.00 AM",
           "Title": "Registration / Welcome / Set Up"
         },
-        
+
         {
           "SessionId": "DEV1",
           "Time": "10:00 AM - 11:30 AM",
-          "Title": "Session Title TBC",
-          "Room": "Session overview coming soon...",
+          "Title": "Is That Appropriate?",
+          "Room": "Do you allow visitors to your web site or internal collaboration sites upload images and post messages for others read?  How do you know the content is appropriate and will not cause offence to others to break polices or terms and conditions of use? In this session, you will learn how to use one of Microsoft's new AI tools to moderate content that you can integrate with your solution using Logic Apps to process content.  You will leave the session with an end-to-end solution for evaluating the content of images through the Cognitive Services API using a Logic App to connect to a wide range of data sources, even your personal OneDrive.",         
           "Speaker": {
             "Name": "Alan Marshall",
             "Organization": "Microsoft MVP / Provoke Solutions",
