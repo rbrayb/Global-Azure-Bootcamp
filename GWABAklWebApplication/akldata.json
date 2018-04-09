@@ -173,6 +173,32 @@
           }
         },
         {
+          "SessionId": "ITPRO2",
+          "Time": "11:30 AM - 01:00 PM",
+          "Title": "Wandering into Azure via Scripts and Automation",
+          "Room": "A quick drive by of 4, ok, 5 PowerPoint slides, we will quickly get into scripting and be deploying our highly available and redundant Azure platform that would host a public facing website. Through the hands-on workshop, we will look at some basics of writing ARM scripts, tools to write and deploy them and why not dabble a  touch of DevOps, we will even check out some basics of GitHub for automated deployment.",
+          "Speaker": {
+            "Name": "Aben Samuel",
+            "Organization": "Equinox IT",
+            "Description": "Aben is a cloud solutions architect with an established track record of over 10 years of experience in helping organisations to efficiently use their networks and other systems. Ensuring that the design of an organisations IT platform allows all of the components, including computers, the network, software and people, to fit together and work properly.",
+            "ImageUrl": "/images/AbenSamuel.jpg",
+            "Social": {
+              "Twitter": "http://www.twitter.com/neop26",
+              "Website": "http://www.wellytonian.com",
+              "LinkedIn": "https://www.linkedin.com/in/abensamuel/"
+            }
+          }
+        },
+
+
+
+
+        {
+          "SessionId": "Common4",
+          "Time": "01:00 PM - 1:30 PM",
+          "Title": "LUNCH"
+        },
+        {
           "SessionId": "ITPRO3",
           "Time": "1:30 PM - 3:00 PM",
           "Title": "Containerize Your World using Azure Container Services",
@@ -190,34 +216,9 @@
           }
         },
 
-
-
-        {
-          "SessionId": "Common4",
-          "Time": "01:00 PM - 1:30 PM",
-          "Title": "LUNCH"
-        },
-
-        {
-          "SessionId": "ITPRO2",
-          "Time": "3:00 PM - 4:30 PM",
-          "Title": "Wandering into Azure via Scripts and Automation",
-          "Room": "A quick drive by of 4, ok, 5 PowerPoint slides, we will quickly get into scripting and be deploying our highly available and redundant Azure platform that would host a public facing website. Through the hands-on workshop, we will look at some basics of writing ARM scripts, tools to write and deploy them and why not dabble a  touch of DevOps, we will even check out some basics of GitHub for automated deployment.",
-          "Speaker": {
-            "Name": "Aben Samuel",
-            "Organization": "Equinox IT",
-            "Description": "Aben is a cloud solutions architect with an established track record of over 10 years of experience in helping organisations to efficiently use their networks and other systems. Ensuring that the design of an organisations IT platform allows all of the components, including computers, the network, software and people, to fit together and work properly.",
-            "ImageUrl": "/images/AbenSamuel.jpg",
-            "Social": {
-              "Twitter": "http://www.twitter.com/neop26",
-              "Website": "http://www.wellytonian.com",
-              "LinkedIn": "https://www.linkedin.com/in/abensamuel/"
-            }
-          }
-        },
         {
           "SessionId": "ITPRO4",
-          "Time": "11:30 AM - 01:00 PM",
+          "Time": "3:00 PM - 4:30 PM",
           "Title": "Replicate, Backup & Migrate in Azure",
           "Room": "In this session we will take a look into the ways you can leverage Azure Site Recovery Service, Azure Backup and other Azure services when tasked with addressing Business Continuity, Disaster Recovery & even VM migration for your organisation.",
           "Speaker": {
