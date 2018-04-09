@@ -62,14 +62,14 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 10.00 AM",
-          "Title": "Registration / Welcome / Set Up"
+          "Title": "REGISTRATION / WELCOME / SETUP"
         },
 
         {
           "SessionId": "DEV1",
           "Time": "10:00 AM - 11:30 AM",
           "Title": "Is That Appropriate?",
-          "Room": "Do you allow visitors to your web site or internal collaboration sites upload images and post messages for others read?  How do you know the content is appropriate and will not cause offence to others to break polices or terms and conditions of use? In this session, you will learn how to use one of Microsoft's new AI tools to moderate content that you can integrate with your solution using Logic Apps to process content.  You will leave the session with an end-to-end solution for evaluating the content of images through the Cognitive Services API using a Logic App to connect to a wide range of data sources, even your personal OneDrive.",         
+          "Room": "Do you allow visitors to your web site or internal collaboration sites upload images and post messages for others read?  How do you know the content is appropriate and will not cause offence to others to break polices or terms and conditions of use? In this session, you will learn how to use one of Microsoft's new AI tools to moderate content that you can integrate with your solution using Logic Apps to process content.  You will leave the session with an end-to-end solution for evaluating the content of images through the Cognitive Services API using a Logic App to connect to a wide range of data sources, even your personal OneDrive.",
           "Speaker": {
             "Name": "Alan Marshall",
             "Organization": "Microsoft MVP / Provoke Solutions",
@@ -81,31 +81,9 @@
             }
           }
         },
+
         {
           "SessionId": "DEV2",
-          "Time": "11:30 AM - 01:00 PM",
-          "Title": "A Lap Around Azure AD for Developers",
-          "Room": "In this session we'll look at the main features of Azure AD and how they fit together. We'll cover the different protocols and when to use which. We will look at the differences between web and native devices and how ADAL / MSAL fits into the picture. The lab session will give attendees a chance to hook up an application with Azure AD so that users can successfully authenticate. Attendees can choose between mobile / desktop / web / SPA / web API and service to service. We'll also look at 'Easy Auth' – a no code offering. Visual Studio (preferably 2017) is required.",
-          "Speaker": {
-            "Name": "Rory Braybrook",
-            "Organization": "Datacom",
-            "Description": "Rory is an architect at Datacom NZ working in the Microsoft Identity space delivering systems based on the Microsoft Identity stack.",
-            "ImageUrl": "/images/RoryBraybrook.jpg",
-            "Social": {
-              "Twitter": "http://www.twitter.com/rbrayb",
-              "Website": "https://medium.com/the-new-control-plane",
-              "LinkedIn": "https://www.linkedin.com/in/rory-braybrook-6050a521/"
-            }
-          }
-        },
-        
-        {
-          "SessionId": "Common4",
-          "Time": "01:00 PM - 1:30 PM",
-          "Title": "Lunch"
-        },
-        {
-          "SessionId": "DEV4",
           "Time": "1:30 PM - 3:00 PM",
           "Title": "Serverless and Containerised Microservices Architectures on Azure",
           "Room": "This session will warm up with a discussion covering some key concepts, literature and history around serverless and microservices architecture (including containerisation). Opinions on appropriate – and inappropriate – use-cases for these architectures will be ventured. We’ll look at common hosting patterns and hosting options, including Windows Azure. The majority of the session will be workshop oriented – we’ll step through the process of getting a simple microservices application running on Docker on your local machine and deployed on to Azure managed Kubernetes Service (AKS).",
@@ -122,7 +100,30 @@
         },
 
         {
-          "SessionId": "DEV5",
+          "SessionId": "Common4",
+          "Time": "01:00 PM - 1:30 PM",
+          "Title": "LUNCH"
+        },
+        {
+          "SessionId": "DEV3",
+          "Time": "11:30 AM - 01:00 PM",
+          "Title": "A Lap Around Azure AD for Developers",
+          "Room": "In this session we'll look at the main features of Azure AD and how they fit together. We'll cover the different protocols and when to use which. We will look at the differences between web and native devices and how ADAL / MSAL fits into the picture. The lab session will give attendees a chance to hook up an application with Azure AD so that users can successfully authenticate. Attendees can choose between mobile / desktop / web / SPA / web API and service to service. We'll also look at 'Easy Auth' – a no code offering. Visual Studio (preferably 2017) is required.",
+          "Speaker": {
+            "Name": "Rory Braybrook",
+            "Organization": "Datacom",
+            "Description": "Rory is an architect at Datacom NZ working in the Microsoft Identity space delivering systems based on the Microsoft Identity stack.",
+            "ImageUrl": "/images/RoryBraybrook.jpg",
+            "Social": {
+              "Twitter": "http://www.twitter.com/rbrayb",
+              "Website": "https://medium.com/the-new-control-plane",
+              "LinkedIn": "https://www.linkedin.com/in/rory-braybrook-6050a521/"
+            }
+          }
+        },
+
+        {
+          "SessionId": "DEV4",
           "Time": "3:00 PM - 4:30 PM",
           "Title": "Build and Deploy a Web API using Azure Functions and CosmosDB",
           "Room": "This session will cover an introduction to Functions-As-A-Service offerings in Azure. We will take you through quickly building and deploying a web API using Azure Functions and CosmosDB and also give a quick demo on Event Driven Architecture with Functions and Azure Service Bus.",
@@ -140,7 +141,7 @@
         {
           "SessionId": "Common6",
           "Time": "4:30 PM - 5:00 PM",
-          "Title": "Wrap-up / Giveaways"
+          "Title": "WRAP-UP + GIVEAWAYS"
         }
       ]
     },
@@ -151,7 +152,7 @@
         {
           "SessionId": "Common1",
           "Time": "9:00 AM - 10.00 AM",
-          "Title": "Registration / Welcome / Set Up"
+          "Title": "REGISTRATION / WELCOME / SETUP"
         },
 
         {
@@ -173,46 +174,6 @@
         },
         {
           "SessionId": "ITPRO2",
-          "Time": "11:30 AM - 01:00 PM",
-          "Title": "Replicate, Backup & Migrate in Azure",
-          "Room": "In this session we will take a look into the ways you can leverage Azure Site Recovery Service, Azure Backup and other Azure services when tasked with addressing Business Continuity, Disaster Recovery & even VM migration for your organisation.",
-          "Speaker": {
-            "Name": "Buddy Davies",
-            "Organization": "Provoke Solutions",
-            "Description": "Buddy is a senior cloud engineer at Provoke in Auckland and spends his days architecting and building Azure infrastructure for some of NZ's most well-known companies as well as helping them migrate current systems to the cloud. He also has a keen interest in DevOps practices and enjoys leveraging automation to improve process efficiencies.",
-            "ImageUrl": "/images/BuddyDavies.jpg",
-            "Social": {
-              "Twitter": "http://www.twitter.com/buddydavies",
-              "LinkedIn": "https://www.linkedin.com/in/buddy-davies-72437352/"
-            }
-          }
-        },
-        
-        {
-          "SessionId": "Common4",
-          "Time": "01:00 PM - 1:30 PM",
-          "Title": "Lunch"
-        },
-        {
-          "SessionId": "ITPRO4",
-          "Time": "1:30 PM - 3:00 PM",
-          "Title": "Two Ways to run Web Sites in Azure",
-          "Room": "In this talk and hands-on workshop we’ll show two different approaches to running a web site (or web application) in Azure: The traditional Infrastructure as a Service (IaaS) approach and the “let Azure take care of it” approach of Platform as a Service (PaaS). Both approaches have their advantages and drawbacks. Knowing when and how to use each approach will give you an edge by helping you select the best solution for your needs.",
-          "Speaker": {
-            "Name": "Daniel Scott-Raynsford",
-            "Organization": "Microsoft MVP / IAG NZ",
-            "Description": "Daniel has spent 16 years as a software developer, but always had a lot of love for the infrastructure that kept his services running. Through combining the power and flexibility of cloud computing and modern DevOps and development practices he has seen what can really be achieved. His passion is to share these modern principals and techniques with IT pros and developers alike – and to automate everything he can with PowerShell.",
-            "ImageUrl": "/images/DanScottRaynsford.jpg",
-            "Social": {
-              "Twitter": "http://www.twitter.com/dscottraynsford",
-              "Website": "https://dscottraynsford.wordpress.com",
-              "LinkedIn": "https://www.linkedin.com/in/dscottraynsford"
-            }
-          }
-        },
-
-        {
-          "SessionId": "ITPRO5",
           "Time": "3:00 PM - 4:30 PM",
           "Title": "Wandering into Azure via Scripts and Automation",
           "Room": "A quick drive by of 4, ok, 5 PowerPoint slides, we will quickly get into scripting and be deploying our highly available and redundant Azure platform that would host a public facing website. Through the hands-on workshop, we will look at some basics of writing ARM scripts, tools to write and deploy them and why not dabble a  touch of DevOps, we will even check out some basics of GitHub for automated deployment.",
@@ -228,11 +189,51 @@
             }
           }
         },
-        
+
+
+        {
+          "SessionId": "Common4",
+          "Time": "01:00 PM - 1:30 PM",
+          "Title": "LUNCH"
+        },
+        {
+          "SessionId": "ITPRO3",
+          "Time": "1:30 PM - 3:00 PM",
+          "Title": "Containerize Your World using Azure Container Services",
+          "Room": "This session will show you how to get started with Azure Container Service (ACS), one of the most powerful ways of running containerized applications in Azure. You'll learn how to set up a Kubernetes cluster using the Azure Cloud Shell and deploy a highly available and scalable web application with only a few commands. We'll then show how easy it is to scale up, reconfigure or update your application without any incurring any downtime to users.",
+          "Speaker": {
+            "Name": "Daniel Scott-Raynsford",
+            "Organization": "Microsoft MVP / IAG NZ",
+            "Description": "Daniel has spent 16 years as a software developer, but always had a lot of love for the infrastructure that kept his services running. Through combining the power and flexibility of cloud computing and modern DevOps and development practices he has seen what can really be achieved. His passion is to share these modern principals and techniques with IT pros and developers alike – and to automate everything he can with PowerShell.",
+            "ImageUrl": "/images/DanScottRaynsford.jpg",
+            "Social": {
+              "Twitter": "http://www.twitter.com/dscottraynsford",
+              "Website": "https://dscottraynsford.wordpress.com",
+              "LinkedIn": "https://www.linkedin.com/in/dscottraynsford"
+            }
+          }
+        },
+        {
+          "SessionId": "ITPRO4",
+          "Time": "11:30 AM - 01:00 PM",
+          "Title": "Replicate, Backup & Migrate in Azure",
+          "Room": "In this session we will take a look into the ways you can leverage Azure Site Recovery Service, Azure Backup and other Azure services when tasked with addressing Business Continuity, Disaster Recovery & even VM migration for your organisation.",
+          "Speaker": {
+            "Name": "Buddy Davies",
+            "Organization": "Provoke Solutions",
+            "Description": "Buddy is a senior cloud engineer at Provoke in Auckland and spends his days architecting and building Azure infrastructure for some of NZ's most well-known companies as well as helping them migrate current systems to the cloud. He also has a keen interest in DevOps practices and enjoys leveraging automation to improve process efficiencies.",
+            "ImageUrl": "/images/BuddyDavies.jpg",
+            "Social": {
+              "Twitter": "http://www.twitter.com/buddydavies",
+              "LinkedIn": "https://www.linkedin.com/in/buddy-davies-72437352/"
+            }
+          }
+        },
+
         {
           "SessionId": "Common6",
           "Time": "4:30 PM - 5:00 PM",
-          "Title": "Wrap-up / Giveaways"
+          "Title": "WRAP-UP + GIVEAWAYS"
         }
       ]
     }
