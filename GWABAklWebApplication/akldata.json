@@ -68,16 +68,16 @@
         {
           "SessionId": "DEV1",
           "Time": "10:00 AM - 11:30 AM",
-          "Title": "Is That Appropriate?",
-          "Room": "Do you allow visitors to your web site or internal collaboration sites upload images and post messages for others read?  How do you know the content is appropriate and will not cause offence to others to break polices or terms and conditions of use? In this session, you will learn how to use one of Microsoft's new AI tools to moderate content that you can integrate with your solution using Logic Apps to process content.  You will leave the session with an end-to-end solution for evaluating the content of images through the Cognitive Services API using a Logic App to connect to a wide range of data sources, even your personal OneDrive.",
+          "Title": "Serverless and Containerised Microservices Architectures on Azure",
+          "Room": "This session will warm up with a discussion covering some key concepts, literature and history around serverless and microservices architecture (including containerisation). Opinions on appropriate – and inappropriate – use-cases for these architectures will be ventured. We’ll look at common hosting patterns and hosting options, including Windows Azure. The majority of the session will be workshop oriented – we’ll step through the process of getting a simple microservices application running on Docker on your local machine and deployed on to Azure managed Kubernetes Service (AKS).",
           "Speaker": {
-            "Name": "Alan Marshall",
-            "Organization": "Microsoft MVP / Provoke Solutions",
-            "Description": "As a senior consultant at Provoke, Alan works with many organisations on architecting solutions that leverage Office 365 and Azure services to build solutions that address business needs or strategic initiatives.  He facilitate workshops to formulate ideas and translate these into possible solutions leveraging Azure services primarily in the AI space in the last 2 years.",
-            "ImageUrl": "/images/AlanMarshall.jpg",
+            "Name": "Bernard O'Leary",
+            "Organization": "Provoke Solutions",
+            "Description": "Bernard is a solutions architect at Provoke Solutions, boasting a depth of experience in a broad range of areas. With core skill sets in both Microsoft custom software development, and open source development, his range of commercial experience give him the advantage of understanding technology across the board. With vast experience in agile methodologies, Bernard brings a unique combination of technical understanding and the ability to facilitate teams to brainstorm solutions collaboratively. His expertise in solution architecture allows him to clarify ideas into high quality technical solutions.",
+            "ImageUrl": "/images/BernardOLeary.jpg",
             "Social": {
-              "Twitter": "http://www.twitter.com/pomealan",
-              "LinkedIn": "https://www.linkedin.com/in/alan-marshall-2679803"
+              "Twitter": "http://www.twitter.com/bernardoleary",
+              "LinkedIn": "https://www.linkedin.com/in/bernardoleary/"
             }
           }
         },
@@ -115,18 +115,19 @@
         {
           "SessionId": "DEV3",
           "Time": "1:30 PM - 3:00 PM",
-          "Title": "Serverless and Containerised Microservices Architectures on Azure",
-          "Room": "This session will warm up with a discussion covering some key concepts, literature and history around serverless and microservices architecture (including containerisation). Opinions on appropriate – and inappropriate – use-cases for these architectures will be ventured. We’ll look at common hosting patterns and hosting options, including Windows Azure. The majority of the session will be workshop oriented – we’ll step through the process of getting a simple microservices application running on Docker on your local machine and deployed on to Azure managed Kubernetes Service (AKS).",
+          "Title": "Is That Appropriate?",
+          "Room": "Do you allow visitors to your web site or internal collaboration sites upload images and post messages for others read?  How do you know the content is appropriate and will not cause offence to others to break polices or terms and conditions of use? In this session, you will learn how to use one of Microsoft's new AI tools to moderate content that you can integrate with your solution using Logic Apps to process content.  You will leave the session with an end-to-end solution for evaluating the content of images through the Cognitive Services API using a Logic App to connect to a wide range of data sources, even your personal OneDrive.",
           "Speaker": {
-            "Name": "Bernard O'Leary",
-            "Organization": "Provoke Solutions",
-            "Description": "Bernard is a solutions architect at Provoke Solutions, boasting a depth of experience in a broad range of areas. With core skill sets in both Microsoft custom software development, and open source development, his range of commercial experience give him the advantage of understanding technology across the board. With vast experience in agile methodologies, Bernard brings a unique combination of technical understanding and the ability to facilitate teams to brainstorm solutions collaboratively. His expertise in solution architecture allows him to clarify ideas into high quality technical solutions.",
-            "ImageUrl": "/images/BernardOLeary.jpg",
+            "Name": "Alan Marshall",
+            "Organization": "Microsoft MVP / Provoke Solutions",
+            "Description": "As a senior consultant at Provoke, Alan works with many organisations on architecting solutions that leverage Office 365 and Azure services to build solutions that address business needs or strategic initiatives.  He facilitate workshops to formulate ideas and translate these into possible solutions leveraging Azure services primarily in the AI space in the last 2 years.",
+            "ImageUrl": "/images/AlanMarshall.jpg",
             "Social": {
-              "Twitter": "http://www.twitter.com/bernardoleary",
-              "LinkedIn": "https://www.linkedin.com/in/bernardoleary/"
+              "Twitter": "http://www.twitter.com/pomealan",
+              "LinkedIn": "https://www.linkedin.com/in/alan-marshall-2679803"
             }
           }
+
         },
 
         {
@@ -200,7 +201,7 @@
           "Room": "A quick drive by of 4, ok, 5 PowerPoint slides, we will quickly get into scripting and be deploying our highly available and redundant Azure platform that would host a public facing website. Through the hands-on workshop, we will look at some basics of writing ARM scripts, tools to write and deploy them and why not dabble a  touch of DevOps, we will even check out some basics of GitHub for automated deployment.",
           "Speaker": {
             "Name": "Aben Samuel",
-            "Organization": "Equinox IT",
+            "Organization": "Fusion5",
             "Description": "Aben is a cloud solutions architect with an established track record of over 10 years of experience in helping organisations to efficiently use their networks and other systems. Ensuring that the design of an organisations IT platform allows all of the components, including computers, the network, software and people, to fit together and work properly.",
             "ImageUrl": "/images/AbenSamuel.jpg",
             "Social": {
