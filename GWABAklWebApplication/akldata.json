@@ -83,7 +83,37 @@
         },
 
         {
+          "SessionId": "Common2",
+          "Time": "11:00 AM - 11:30 AM",
+          "Title": "Morning tea - interspersed with lab."
+        },
+
+        {
           "SessionId": "DEV2",
+          "Time": "11:30 AM - 01:00 PM",
+          "Title": "A Lap Around Azure AD for Developers",
+          "Room": "In this session we'll look at the main features of Azure AD and how they fit together. We'll cover the different protocols and when to use which. We will look at the differences between web and native devices and how ADAL / MSAL fits into the picture. The lab session will give attendees a chance to hook up an application with Azure AD so that users can successfully authenticate. Attendees can choose between mobile / desktop / web / SPA / web API and service to service. We'll also look at 'Easy Auth' – a no code offering. Visual Studio (preferably 2017) is required.",
+          "Speaker": {
+            "Name": "Rory Braybrook",
+            "Organization": "Datacom",
+            "Description": "Rory is an architect at Datacom NZ working in the Microsoft Identity space delivering systems based on the Microsoft Identity stack.",
+            "ImageUrl": "/images/RoryBraybrook.jpg",
+            "Social": {
+              "Twitter": "http://www.twitter.com/rbrayb",
+              "Website": "https://medium.com/the-new-control-plane",
+              "LinkedIn": "https://www.linkedin.com/in/rory-braybrook-6050a521/"
+            }
+          }
+        },
+
+        {
+          "SessionId": "Common3",
+          "Time": "01:00 PM - 1:30 PM",
+          "Title": "LUNCH"
+        },
+
+        {
+          "SessionId": "DEV3",
           "Time": "1:30 PM - 3:00 PM",
           "Title": "Serverless and Containerised Microservices Architectures on Azure",
           "Room": "This session will warm up with a discussion covering some key concepts, literature and history around serverless and microservices architecture (including containerisation). Opinions on appropriate – and inappropriate – use-cases for these architectures will be ventured. We’ll look at common hosting patterns and hosting options, including Windows Azure. The majority of the session will be workshop oriented – we’ll step through the process of getting a simple microservices application running on Docker on your local machine and deployed on to Azure managed Kubernetes Service (AKS).",
@@ -101,26 +131,10 @@
 
         {
           "SessionId": "Common4",
-          "Time": "01:00 PM - 1:30 PM",
-          "Title": "LUNCH"
+          "Time": "2:30 AM - 3:00 AM",
+          "Title": "Afternoon tea - interspersed with lab."
         },
-        {
-          "SessionId": "DEV3",
-          "Time": "11:30 AM - 01:00 PM",
-          "Title": "A Lap Around Azure AD for Developers",
-          "Room": "In this session we'll look at the main features of Azure AD and how they fit together. We'll cover the different protocols and when to use which. We will look at the differences between web and native devices and how ADAL / MSAL fits into the picture. The lab session will give attendees a chance to hook up an application with Azure AD so that users can successfully authenticate. Attendees can choose between mobile / desktop / web / SPA / web API and service to service. We'll also look at 'Easy Auth' – a no code offering. Visual Studio (preferably 2017) is required.",
-          "Speaker": {
-            "Name": "Rory Braybrook",
-            "Organization": "Datacom",
-            "Description": "Rory is an architect at Datacom NZ working in the Microsoft Identity space delivering systems based on the Microsoft Identity stack.",
-            "ImageUrl": "/images/RoryBraybrook.jpg",
-            "Social": {
-              "Twitter": "http://www.twitter.com/rbrayb",
-              "Website": "https://medium.com/the-new-control-plane",
-              "LinkedIn": "https://www.linkedin.com/in/rory-braybrook-6050a521/"
-            }
-          }
-        },
+
 
         {
           "SessionId": "DEV4",
@@ -139,7 +153,7 @@
         },
 
         {
-          "SessionId": "Common6",
+          "SessionId": "Common5",
           "Time": "4:30 PM - 5:00 PM",
           "Title": "WRAP-UP + GIVEAWAYS"
         }
@@ -172,6 +186,13 @@
             }
           }
         },
+
+        {
+          "SessionId": "Common2",
+          "Time": "11:00 AM - 11:30 AM",
+          "Title": "Morning tea - interspersed with lab."
+        },
+
         {
           "SessionId": "ITPRO2",
           "Time": "11:30 AM - 01:00 PM",
@@ -190,14 +211,12 @@
           }
         },
 
-
-
-
         {
-          "SessionId": "Common4",
+          "SessionId": "Common3",
           "Time": "01:00 PM - 1:30 PM",
           "Title": "LUNCH"
         },
+
         {
           "SessionId": "ITPRO3",
           "Time": "1:30 PM - 3:00 PM",
@@ -214,6 +233,12 @@
               "LinkedIn": "https://www.linkedin.com/in/dscottraynsford"
             }
           }
+        },
+
+        {
+          "SessionId": "Common4",
+          "Time": "2:30 AM - 3:00 AM",
+          "Title": "Afternoon tea - interspersed with lab."
         },
 
         {
@@ -234,7 +259,7 @@
         },
 
         {
-          "SessionId": "Common6",
+          "SessionId": "Common5",
           "Time": "4:30 PM - 5:00 PM",
           "Title": "WRAP-UP + GIVEAWAYS"
         }
