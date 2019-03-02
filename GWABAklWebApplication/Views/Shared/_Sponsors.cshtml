@@ -11,12 +11,6 @@
             <h1>Sponsors</h1>
             <div class="divider"></div>
         </div>
-        <div class="row">
-            <div class="col-lg-6 text-center">
-                <a href="http://www.microsoft.co.nz" target="_blank"><img src="~/images/msft.png" height="100px" alt="Microsoft"></a><br />
-                <br />
-            </div>
-        </div>
         @foreach (var group in sortedGroups)
         {
             var thisGroup = group.Where(x => x.Category == group.Key);
