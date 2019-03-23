@@ -99,17 +99,17 @@
         {
           "SessionId": "DEV1",
           "Time": "10:00 AM - 11:15 AM",
-          "Title": "Azure DevOps in action",
-          "Room": "Azure DevOps in action, particularly focusing on how to run a continuous delivery pipeline with software development practice including build/test automation, infrastructure as code.",
+          "Title": "Azure DevOps in Action",
+          "Room": "William will discuss some of the common problems with software development. He will share some design considerations around CI/CD pipeline, and development practice. The session will be finished with a demonstration of Azure DevOps from code commit and deploy all the way to production by going through various of automation testing phases and environments using Infrastructure as Code.",
           "Speaker": {
             "Name": "William Wang",
             "Organization": "Cloud & DevOps Consultant at Revera/CCL",
-            "Description": "",
+            "Description": "William came from software development background, now specializing in Cloud architecture and DevOps consultancy. William has helped a number of organizations from the cloud adoption and transformation to DevOps practice and assessment to deliver better business results with smart technology decisions and implementation. William has a strong focus around Azure PaaS, Azure DevOps and modern application development with industry patterns and practice.",
             "ImageUrl": "/images/WilliamWang.jpg",
             "Social": {
               "Twitter": "",
-              "Website": "",
-              "LinkedIn": ""
+              "Website": "https://williamwang.info/",
+              "LinkedIn": "https://www.linkedin.com/in/bwwilliam/"
             }
           }
         },
