@@ -60,7 +60,9 @@
 
   "Sponsors": [
     {
-
+      "Name": "Umbrellar",
+      "Link": "https://www.umbrellar.com",
+      "Image": "/images/UMB_Logo_Full.png"
     }
   ],
 
@@ -77,21 +79,33 @@
       "Name": "Developer Track",
       "Sessions": [
         {
-          "SessionId": "Common1",
-          "Time": "9:00 AM - 10.00 AM",
-          "Title": "REGISTRATION / WELCOME / SETUP"
+          "SessionId": "Common1A",
+          "Time": "8:30 AM - 8:40 AM",
+          "Title": "Registration, Welcome, House Keeping"
+        },
+
+        {
+          "SessionId": "Common1B",
+          "Time": "8:40 AM - 9:00 AM",
+          "Title": "Keynote from David Howden, Head of Cloud @ Umbrellar"
+        },
+
+        {
+          "SessionId": "Common1C",
+          "Time": "9:00 AM - 10:00 AM",
+          "Title": "Getting Setup in Azure"
         },
 
         {
           "SessionId": "DEV1",
-          "Time": "10:00 AM - 11:30 AM",
-          "Title": "TBA",
-          "Room": "Description TBA",
+          "Time": "10:00 AM - 11:15 AM",
+          "Title": "Azure DevOps in action",
+          "Room": "Azure DevOps in action, particularly focusing on how to run a continuous delivery pipeline with software development practice including build/test automation, infrastructure as code.",
           "Speaker": {
-            "Name": "Presenter TBA",
-            "Organization": "Org TBA",
-            "Description": "Description TBA",
-            "ImageUrl": "/images/gravatar.png",
+            "Name": "William Wang",
+            "Organization": "Cloud & DevOps Consultant at Revera/CCL",
+            "Description": "",
+            "ImageUrl": "/images/WilliamWang.jpg",
             "Social": {
               "Twitter": "",
               "Website": "",
@@ -102,42 +116,41 @@
 
         {
           "SessionId": "Common2",
-          "Time": "11:00 AM - 11:30 AM",
+          "Time": "11:15 AM - 11:30 AM",
           "Title": "Morning tea - interspersed with lab."
         },
 
         {
           "SessionId": "DEV2",
-          "Time": "11:30 AM - 01:00 PM",
-          "Title": "TBA",
-          "Room": "Description TBA",
+          "Time": "11:30 AM - 12:45 PM",
+          "Title": "Azure Identity",
+          "Room": "A look at the Azure I&AM landscape and what protocols and technologies are appropriate for different use cases.",
           "Speaker": {
-            "Name": "Presenter TBA",
-            "Organization": "Org TBA",
-            "Description": "Description TBA",
-            "ImageUrl": "/images/gravatar.png",
+            "Name": "Rory Braybrook",
+            "Organization": "I&AM Architect",
+            "Description": "I work across the Microsoft Identity stack consulting to companies world-wide wrt. moving from legacy systems to the cloud. I help on-premises users with ADFS. Dev. wise, I advise on the MSAL, ADAL and OWIN stacks and how to integrate these with the various IDP.",
+            "ImageUrl": "/images/RoryBraybrook.jpg",
             "Social": {
-              "Twitter": "",
-              "Website": "",
-              "LinkedIn": ""
+              "Twitter": "https://twitter.com/rbrayb",
+              "Website": "https://medium.com/the-new-control-plane",
+              "LinkedIn": "https://www.linkedin.com/in/rory-braybrook-6050a521/"
             }
           }
         },
 
         {
           "SessionId": "Common3",
-          "Time": "01:00 PM - 1:30 PM",
-          "Title": "LUNCH"
+          "Time": "12:45 PM - 1:45 PM",
+          "Title": "Lunch, Labs and Ask an Expert"
         },
 
         {
           "SessionId": "DEV3",
-          "Time": "1:30 PM - 3:00 PM",
-
+          "Time": "1:45 PM - 3:00 PM",
           "Title": "TBA",
           "Room": "Description TBA",
           "Speaker": {
-            "Name": "Presenter TBA",
+            "Name": "Dave Theunissen",
             "Organization": "Org TBA",
             "Description": "Description TBA",
             "ImageUrl": "/images/gravatar.png",
@@ -147,30 +160,29 @@
               "LinkedIn": ""
             }
           }
-
-         },
+        },
 
         {
           "SessionId": "Common4",
-          "Time": "2:30 PM - 3:00 PM",
+          "Time": "3:00 PM - 3:15 PM",
           "Title": "Afternoon tea - interspersed with lab."
         },
 
-
         {
           "SessionId": "DEV4",
-          "Time": "3:00 PM - 4:30 PM",
-          "Title": "TBA",
-          "Room": "Description TBA",
+          "Time": "3:15 PM - 4:30 PM",
+          "Title": "Using Azure Resource Manager Templates to supercharge your Azure Deployments",
+          "Room": "Whether you’re a Developer building applications or an IT Pro building IaaS virtual data centres in Azure, at some point you're going to want to use modern development practices to build and define those systems. Azure Resource Manager Templates is the extremely flexible and powerful declarative Infrastructure as Code system that is baked in to Azure. In this session we'll take a look at what Azure Resource Manager templates are, how to create and edit them and what tools, tricks and tips are available to you to master this very powerful tool.",
           "Speaker": {
-            "Name": "Presenter TBA",
-            "Organization": "Org TBA",
-            "Description": "Description TBA",
-            "ImageUrl": "/images/gravatar.png",
+            "Name": "Daniel Scott-Raynsford",
+            "Organization": "Manager Release Engineering @ IAG",
+            "Description": "Daniel is Manager of Release Engineering at IAG and is also a Microsoft MVP in Cloud and Datacenter Management since 2017, specializing in cloud, automation, DevOps and continuous delivery practices. A software engineer and systems architect for 16 years, Daniel made the move to specializing in DevOps and contemporary delivery practices 6 years ago. He is an passionate evangelist for delivering better value for customers by optimizing how we think about and deliver software and infrastructure. Daniel supports the community by co-organizing the Auckland Azure User Group and writing his own DevOps, Cloud and Automation blog. Daniel is also a regular contributor and maintainer of many Microsoft open source projects as well as running several of his community open source projects focusing on PowerShell, PowerShell DSC and Azure.",
+            "ImageUrl": "/images/DanScottRaynsford.jpg",
             "Social": {
-              "Twitter": "",
-              "Website": "",
-              "LinkedIn": ""
+              "Twitter": "https://twitter.com/dscottraynsford",
+              "Website": "https://dscottraynsford.wordpress.com/ ",
+              "LinkedIn": "https://www.linkedin.com/in/dscottraynsford/",
+              "GitHub": "https://github.com/PlagueHO"
             }
           }
         },
@@ -178,7 +190,7 @@
         {
           "SessionId": "Common5",
           "Time": "4:30 PM - 5:00 PM",
-          "Title": "WRAP-UP + GIVEAWAYS"
+          "Title": "Wrap-Up & Giveaways"
         }
       ]
     },
@@ -187,14 +199,26 @@
       "Name": "IT Pro Track",
       "Sessions": [
         {
-          "SessionId": "Common1",
-          "Time": "9:00 AM - 10.00 AM",
-          "Title": "REGISTRATION / WELCOME / SETUP"
+          "SessionId": "Common1A",
+          "Time": "8:30 AM - 8:40 AM",
+          "Title": "Registration, Welcome, House Keeping"
+        },
+
+        {
+          "SessionId": "Common1B",
+          "Time": "8:40 AM - 9:00 AM",
+          "Title": "Keynote from David Howden, Head of Cloud @ Umbrellar"
+        },
+
+        {
+          "SessionId": "Common1C",
+          "Time": "9:00 AM - 10:00 AM",
+          "Title": "Getting Setup in Azure"
         },
 
         {
           "SessionId": "ITPRO1",
-          "Time": "10:00 AM - 11:30 AM",
+          "Time": "10:00 AM - 11:15 AM",
           "Title": "TBA",
           "Room": "Description TBA",
           "Speaker": {
@@ -212,13 +236,13 @@
 
         {
           "SessionId": "Common2",
-          "Time": "11:00 AM - 11:30 AM",
+          "Time": "11:15 AM - 11:30 AM",
           "Title": "Morning tea - interspersed with lab."
         },
 
         {
           "SessionId": "ITPRO2",
-          "Time": "11:30 AM - 01:00 PM",
+          "Time": "11:30 AM - 12:45 PM",
           "Title": "TBA",
           "Room": "Description TBA",
           "Speaker": {
@@ -236,13 +260,13 @@
 
         {
           "SessionId": "Common3",
-          "Time": "01:00 PM - 1:30 PM",
-          "Title": "LUNCH"
+          "Time": "12:45 PM - 1:45 PM",
+          "Title": "Lunch, Labs and Ask an Expert"
         },
 
         {
           "SessionId": "ITPRO3",
-          "Time": "1:30 PM - 3:00 PM",
+          "Time": "1:45 PM - 3:00 PM",
           "Title": "TBA",
           "Room": "Description TBA",
           "Speaker": {
@@ -260,13 +284,13 @@
 
         {
           "SessionId": "Common4",
-          "Time": "2:30 PM - 3:00 PM",
+          "Time": "3:00 PM - 3:15 PM",
           "Title": "Afternoon tea - interspersed with lab."
         },
 
         {
           "SessionId": "ITPRO4",
-          "Time": "3:00 PM - 4:30 PM",
+          "Time": "3:15 PM - 4:30 PM",
           "Title": "TBA",
           "Room": "Description TBA",
           "Speaker": {
@@ -276,7 +300,7 @@
             "ImageUrl": "/images/gravatar.png",
             "Social": {
               "Twitter": "",
-              "Website":  "",
+              "Website": "",
               "LinkedIn": ""
             }
           }
@@ -285,7 +309,7 @@
         {
           "SessionId": "Common5",
           "Time": "4:30 PM - 5:00 PM",
-          "Title": "WRAP-UP + GIVEAWAYS"
+          "Title": "Wrap-Up & Giveaways"
         }
       ]
     }
