@@ -291,17 +291,17 @@
         {
           "SessionId": "ITPRO4",
           "Time": "3:15 PM - 4:30 PM",
-          "Title": "TBA",
-          "Room": "Description TBA",
+          "Title": "9 ways to completely mess up Security of your Azure Platform",
+          "Room": "A common misconception is that moving to the cloud means your data and your platform is completely secure. DON’T Worry, it is not. In this session, I intent to show you 9 different topics, you shouldn’t do so that you can keep your Microsoft Azure platform remain vulnerable and provide all the surface area required for a large scale attack. Finally something in common to your On-premises platform.",
           "Speaker": {
-            "Name": "Presenter TBA",
-            "Organization": "Org TBA",
-            "Description": "Description TBA",
-            "ImageUrl": "/images/gravatar.png",
+            "Name": "Aben Samuel",
+            "Organization": "Principal Consultant and Product Manager at Fusion5",
+            "Description": "As a Cloud consultant for the past 6 years, I have seen the journey and sentiment about moving to the cloud of many customers. It is no longer a 'should we' question, but rather a 'when' question. As a Principal Consultant leading a team of Cloud Architects and Engineers, I have had the unique front seat to watching this transform the way our clients do business. As a Product Manager, I have the unique opportunity to listen to some of my really smart colleagues and combine that with what my customers need which helps me shape Fusion5 journey with Cloud Technology, especially Microsoft Azure. ",
+            "ImageUrl": "/images/AbenSamuel.jpg",
             "Social": {
-              "Twitter": "",
-              "Website": "",
-              "LinkedIn": ""
+              "Twitter": "https://twitter.com/neop26",
+              "Website": "http://wellytonian.com ",
+              "LinkedIn": "https://www.linkedin.com/in/abensamuel/"
             }
           }
         },
