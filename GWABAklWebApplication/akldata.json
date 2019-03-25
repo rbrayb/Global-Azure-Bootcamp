@@ -219,17 +219,17 @@
         {
           "SessionId": "ITPRO1",
           "Time": "10:00 AM - 11:15 AM",
-          "Title": "TBA",
-          "Room": "Description TBA",
+          "Title": "Azure Journey – Walk the walk",
+          "Room": "Azure is innovating and pioneering information technology, impacting the way we buy, build and use IT services. Is cloud a philosophy, a giant somebody’s computer or an innovation hub? How should we start our journey to the new, innovative and fast-changing universe of the cloud using Cloud Framework, Governance to Migration? Let’s talk!",
           "Speaker": {
-            "Name": "Presenter TBA",
-            "Organization": "Org TBA",
-            "Description": "Description TBA",
-            "ImageUrl": "/images/gravatar.png",
+            "Name": "Ajay Nabh",
+            "Organization": "Senior Cloud Consultant, Umbrellar",
+            "Description": "Ajay has an extensive background with over 18 Years in IT ranging from Business Support to IT Solution design and consulting. He has broad experience that extends right across the infrastructure stack along with Azure and Azure Stack. His role as Senior Cloud Consultant requires leadership in the use of technology and its alignment to business and enjoys the challenge of applying his knowledge to customer business challenges.",
+            "ImageUrl": "/images/AjayNabh.jpg",
             "Social": {
-              "Twitter": "",
+              "Twitter": "https://twitter.com/ajaynabh1",
               "Website": "",
-              "LinkedIn": ""
+              "LinkedIn": "https://linkedin.com/in/ajaynabh"
             }
           }
         },
