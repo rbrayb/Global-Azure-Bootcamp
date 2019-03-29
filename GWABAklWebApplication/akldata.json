@@ -267,17 +267,17 @@
         {
           "SessionId": "ITPRO3",
           "Time": "1:45 PM - 3:00 PM",
-          "Title": "TBA",
-          "Room": "Description TBA",
+          "Title": "Azure Stack an extension of Azure",
+          "Room": "How does this Hybrid model work – Consistency around portal, pricing, Azure look and feel and technical specs including demo and Q&A.",
           "Speaker": {
-            "Name": "Presenter TBA",
-            "Organization": "Org TBA",
-            "Description": "Description TBA",
+            "Name": "Marcelino Richarte",
+            "Organization": "Cloud Platform Engineer, Azure Stack, Umbrellar",
+            "Description": "Marcelino is a Professional and an accomplished information technology specialist with extensive background in Microsoft troubleshooting and diagnosing with over 16 years experience overall, ranging from various technologies, setups and infrastructure with creating hybrid solutions and making cloud computing possible.",
             "ImageUrl": "/images/gravatar.png",
             "Social": {
               "Twitter": "",
               "Website": "",
-              "LinkedIn": ""
+              "LinkedIn": "https://linkedin.com/in/marcelinor"
             }
           }
         },
