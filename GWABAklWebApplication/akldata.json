@@ -243,17 +243,17 @@
         {
           "SessionId": "ITPRO2",
           "Time": "11:30 AM - 12:45 PM",
-          "Title": "TBA",
-          "Room": "Description TBA",
+          "Title": "Running Super Mario in Azure",
+          "Room": "This session is going to introduce you all to some of the basics around container, what they are, why theyre here and how a tech persons role may look. We will cover off some live use cases of container based solutions and the services available within Azure for running them. You will start with running a container on your laptop, then taking that same code and running it Azure using different services. Wrapping up with a brief look at some operational point and a call to action for taking this further in your own time.",
           "Speaker": {
-            "Name": "Presenter TBA",
-            "Organization": "Org TBA",
-            "Description": "Description TBA",
-            "ImageUrl": "/images/gravatar.png",
+            "Name": "Buddy Davies",
+            "Organization": "Azure Tech Team Lead @ provoke Solutions",
+            "Description": "Buddy has historically been involved in traditional Data Center infrastructure before embarking on a transition to focusing on building solutions within Microsoft Azure. He is currently the Azure Infrastructure Team Lead @ Provoke where he spends a lot of his time honing his DevOps skills and working closely with some of the brightest application architects to build cool solutions on technologies in Azure.",
+            "ImageUrl": "/images/BuddyDavies.jpg",
             "Social": {
-              "Twitter": "",
+              "Twitter": "https://www.twitter.com/AucklandAzure",
               "Website": "",
-              "LinkedIn": ""
+              "LinkedIn": "https://www.linkedin.com/in/buddydavies/"
             }
           }
         },
