@@ -151,13 +151,13 @@
           "Room": "Description TBA",
           "Speaker": {
             "Name": "Dave Theunissen",
-            "Organization": "Org TBA",
-            "Description": "Description TBA",
+            "Organization": "Sr. Software Engineer / Cloud & DevOps Consultant",
+            "Description": "David is a Software Engineer with a focus on leading cloud adoption and DevOps practices. He's been developing systems on the Microsoft .NET stack for almost 10 years, and is passionate about software engineering, DevOps practices and Azure related technologies. His focus over the past few years has been in cloud and microservice architecture, development and continuous delivery. He is an active member of the wider the development community, sharing and talking about Azure technologies through his blog, social media and at various meetup groups.",
             "ImageUrl": "/images/gravatar.png",
             "Social": {
-              "Twitter": "",
-              "Website": "",
-              "LinkedIn": ""
+              "Twitter": "https://twitter.com/davetheunissen",
+              "Website": "https://davetheunissen.io/",
+              "LinkedIn": "https://www.linkedin.com/in/david-theunissen/"
             }
           }
         },
