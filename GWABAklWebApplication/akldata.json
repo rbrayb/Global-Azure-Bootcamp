@@ -148,12 +148,11 @@
           "SessionId": "DEV3",
           "Time": "1:45 PM - 3:00 PM",
           "Title": "Azure Functions - Bindings and Authentication",
-          "Room": "A brief tour of Azure Functions followed by a hands on lab creating and authenticating to Azure Functions from a front end SPA.",
+          "Room": "In this session we take a look at some of the bindings available to you and how you might go about creating your own custom bindings using the binding extensibility framework. We'll then have a go at putting together a simple SPA application that includes authenticating to back end functions via Azure Active Directory and serving up content using the Azure Function SignalR and CosmosDb trigger bindings.",
           "Speaker": {
             "Name": "Dave Theunissen",
             "Organization": "Cloud & DevOps Consultant @ Fidelity Life Assurance Company",
-            "Description": "In this session we take a look at some of the bindings available to you and how you might go about creating your own custom bindings using the binding extensibility framework. We'll then have a go at putting together a simple SPA application that includes authenticating to back end functions via Azure Active Directory and serving up content using the Azure Function SignalR and CosmosDb trigger bindings.",
-            "ImageUrl": "/images/DaveTheunissen.jpg",
+            "Description": "David is a Software Engineer with a focus on leading cloud adoption and DevOps practices. He's been developing systems on the Microsoft .NET stack for almost 10 years, and is passionate about software engineering, DevOps practices and Azure related technologies. His focus over the past few years has been in cloud and microservice architecture, development and continuous delivery. He is an active member of the wider the development community, sharing and talking about Azure technologies through his blog, social media and at various meetup groups.",
             "Social": {
               "Twitter": "https://twitter.com/davetheunissen",
               "Website": "https://davetheunissen.io/",
