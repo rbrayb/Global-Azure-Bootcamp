@@ -177,17 +177,17 @@
         {
           "SessionId": "DEV4",
           "Time": "3:15 PM - 4:30 PM",
-          "Title": "TBC",
-          "Room": "TBC",
+          "Title": "Exploring Azure Integration Services",
+          "Room": "On a connected world access to up to date information is critical. With distributed systems, where parts of the information is mastered in different systems, integration plays a critical role in making sure that every system have the correct data at the correct time. But how can you navigate the maze of Integration Services? In this session Wagner Silveira (Azure MVP) will explain who is who on the Azure world when it comes to integration - from API Management to Service Bus, passing through Logic Apps, Event Grid and Functions, they will show you what those services are, how can you use and when you should use it, following by some hands on exercises.",
           "Speaker": {
             "Name": "Wagner Silveira",
-            "Organization": "TBC",
-            "Description": "TBC",
-            "ImageUrl": "/images/gravatar.png",
+            "Organization": "Principal Integration (Theta)",
+            "Description": "Wagner Silveira is the Principal Integration Architect at Theta. Originally from Brazil, where he started his IT career as a class-led instructor of Microsoft products, Wagner came to New Zealand in 2002, and have been working in integration related projects using Microsoft Technologies ever since, using products like BizTalk Server, SQL Server, .NET Framework, WCF and lately Azure Cloud Integration technologies like Logic Apps, Service Bus, Azure Functions and API Management, to create award winning solutions. Wagner is an active member of the Auckland Connected Systems User Group (ACSUG) and one of the organizers of community events like Integration Saturday and Global Integration Bootcamp.",
+            "ImageUrl": "/images/WagnerSilveira.jpg",
             "Social": {
-              "Twitter": "",
-              "Website": "",
-              "LinkedIn": ""
+              "Twitter": "https://twitter.com/wsilveiranz",
+              "Website": "https://notetoself.tech",
+              "LinkedIn": "https://www.linkedin.com/in/wagnersilveira/"
             }
           }
         },
