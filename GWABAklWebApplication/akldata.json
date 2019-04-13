@@ -97,8 +97,8 @@
         },
 
         {
-          "SessionId": "DEV1",
-          "Time": "10:00 AM - 11:15 AM",
+          "SessionId": "DEV1A",
+          "Time": "10:00 AM - 10:30 AM",
           "Title": "Azure DevOps in Action",
           "Room": "William will discuss some of the common problems with software development. He will share some design considerations around CI/CD pipeline, and development practice. The session will be finished with a demonstration of Azure DevOps from code commit and deploy all the way to production by going through various of automation testing phases and environments using Infrastructure as Code.",
           "Speaker": {
@@ -112,6 +112,12 @@
               "LinkedIn": "https://www.linkedin.com/in/bwwilliam/"
             }
           }
+        },
+
+        {
+          "SessionId": "DEV1B",
+          "Time": "10:30 AM - 11:15 AM",
+          "Title": "Azure DevOps in Action Continued"
         },
 
         {
@@ -171,18 +177,17 @@
         {
           "SessionId": "DEV4",
           "Time": "3:15 PM - 4:30 PM",
-          "Title": "Using Azure Resource Manager Templates to supercharge your Azure Deployments",
-          "Room": "Whether you’re a Developer building applications or an IT Pro building IaaS virtual data centres in Azure, at some point you're going to want to use modern development practices to build and define those systems. Azure Resource Manager Templates is the extremely flexible and powerful declarative Infrastructure as Code system that is baked in to Azure. In this session we'll take a look at what Azure Resource Manager templates are, how to create and edit them and what tools, tricks and tips are available to you to master this very powerful tool.",
+          "Title": "TBC",
+          "Room": "TBC",
           "Speaker": {
-            "Name": "Daniel Scott-Raynsford",
-            "Organization": "Manager Release Engineering @ IAG",
-            "Description": "Daniel is Manager of Release Engineering at IAG and is also a Microsoft MVP in Cloud and Datacenter Management since 2017, specializing in cloud, automation, DevOps and continuous delivery practices. A software engineer and systems architect for 16 years, Daniel made the move to specializing in DevOps and contemporary delivery practices 6 years ago. He is an passionate evangelist for delivering better value for customers by optimizing how we think about and deliver software and infrastructure. Daniel supports the community by co-organizing the Auckland Azure User Group and writing his own DevOps, Cloud and Automation blog. Daniel is also a regular contributor and maintainer of many Microsoft open source projects as well as running several of his community open source projects focusing on PowerShell, PowerShell DSC and Azure.",
-            "ImageUrl": "/images/DanScottRaynsford.jpg",
+            "Name": "Wagner Silveira",
+            "Organization": "TBC",
+            "Description": "TBC",
+            "ImageUrl": "/images/gravatar.png",
             "Social": {
-              "Twitter": "https://twitter.com/dscottraynsford",
-              "Website": "https://dscottraynsford.wordpress.com/ ",
-              "LinkedIn": "https://www.linkedin.com/in/dscottraynsford/",
-              "GitHub": "https://github.com/PlagueHO"
+              "Twitter": "",
+              "Website": "",
+              "LinkedIn": ""
             }
           }
         },
@@ -217,8 +222,8 @@
         },
 
         {
-          "SessionId": "ITPRO1",
-          "Time": "10:00 AM - 11:15 AM",
+          "SessionId": "ITPRO1A",
+          "Time": "10:00 AM - 10:30 AM",
           "Title": "Azure Journey – Walk the walk",
           "Room": "Azure is innovating and pioneering information technology, impacting the way we buy, build and use IT services. Is cloud a philosophy, a giant somebody’s computer or an innovation hub? How should we start our journey to the new, innovative and fast-changing universe of the cloud using Cloud Framework, Governance to Migration? Let’s talk!",
           "Speaker": {
@@ -235,6 +240,24 @@
         },
 
         {
+          "SessionId": "ITPRO1B",
+          "Time": "10:30 AM - 11:15 AM",
+          "Title": "Azure Stack an extension of Azure",
+          "Room": "How does this Hybrid model work – Consistency around portal, pricing, Azure look and feel and technical specs including demo and Q&A.",
+          "Speaker": {
+            "Name": "Marcelino Richarte",
+            "Organization": "Cloud Platform Engineer, Azure Stack, Umbrellar",
+            "Description": "Marcelino is a Professional and an accomplished information technology specialist with extensive background in Microsoft troubleshooting and diagnosing with over 16 years experience overall, ranging from various technologies, setups and infrastructure with creating hybrid solutions and making cloud computing possible.",
+            "ImageUrl": "/images/MarcelinoRicharte.jpg",
+            "Social": {
+              "Twitter": "",
+              "Website": "",
+              "LinkedIn": "https://linkedin.com/in/marcelinor"
+            }
+          }
+        },
+
+        {
           "SessionId": "Common2",
           "Time": "11:15 AM - 11:30 AM",
           "Title": "Morning tea - interspersed with lab."
@@ -243,12 +266,12 @@
         {
           "SessionId": "ITPRO2",
           "Time": "11:30 AM - 12:45 PM",
-          "Title": "Running Super Mario in Azure",
-          "Room": "This session is going to introduce you all to some of the basics around container, what they are, why theyre here and how a tech persons role may look. We will cover off some live use cases of container based solutions and the services available within Azure for running them. You will start with running a container on your laptop, then taking that same code and running it Azure using different services. Wrapping up with a brief look at some operational point and a call to action for taking this further in your own time.",
+          "Title": "Modernise whilst moving solutions to Azure",
+          "Room": "This session is going to look at an example infrastructure solution and the approaches you can take to modernising it when moving to Azure. We will take a quick look at what the equivalent will be when leveraging IaaS in Azure, followed by a preferred scenario of leveraging PaaS in Azure. To wrap up we will take a glance into some of the operational services available to build a complete solution. You will then go and follow a lab to build out the solution just covered. Note: We will be doing this via the portal with no automation – The following session with Daniel will look into how you leverage ARM to streamline your infrastructure deployments.",
           "Speaker": {
             "Name": "Buddy Davies",
             "Organization": "Azure Tech Team Lead @ provoke Solutions",
-            "Description": "Buddy has historically been involved in traditional Data Center infrastructure before embarking on a transition to focusing on building solutions within Microsoft Azure. He is currently the Azure Infrastructure Team Lead @ Provoke where he spends a lot of his time honing his DevOps skills and working closely with some of the brightest application architects to build cool solutions on technologies in Azure.",
+            "Description": "Buddy has historically been involved in traditional Data Center infrastructure before embarking on a transition to focusing on building solutions within Microsoft Azure. He is currently the Azure Infrastructure Team Lead @ Provoke where he spends a lot of his time honing his DevOps skills and working closely with some bright application architects to build cool solutions on technologies in Azure.",
             "ImageUrl": "/images/BuddyDavies.jpg",
             "Social": {
               "Twitter": "https://www.twitter.com/AucklandAzure",
@@ -267,17 +290,18 @@
         {
           "SessionId": "ITPRO3",
           "Time": "1:45 PM - 3:00 PM",
-          "Title": "Azure Stack an extension of Azure",
-          "Room": "How does this Hybrid model work – Consistency around portal, pricing, Azure look and feel and technical specs including demo and Q&A.",
+          "Title": "Using Azure Resource Manager Templates to supercharge your Azure Deployments",
+          "Room": "Whether you’re a Developer building applications or an IT Pro building virtual data centres in Azure, at some point you're going to want to use modern Configuration Management practices to build those services. Azure Resource Manager Templates are the powerful declarative Infrastructure as Code system that is baked in to Azure. In this session we'll take a look at what Azure Resource Manager templates are, how to create and edit them and what tricks, tips and tools are available to you to help you become a Configuration Management master in Azure.",
           "Speaker": {
-            "Name": "Marcelino Richarte",
-            "Organization": "Cloud Platform Engineer, Azure Stack, Umbrellar",
-            "Description": "Marcelino is a Professional and an accomplished information technology specialist with extensive background in Microsoft troubleshooting and diagnosing with over 16 years experience overall, ranging from various technologies, setups and infrastructure with creating hybrid solutions and making cloud computing possible.",
-            "ImageUrl": "/images/MarcelinoRicharte.jpg",
+            "Name": "Daniel Scott-Raynsford",
+            "Organization": "Manager Release Engineering @ IAG",
+            "Description": "Daniel is Manager of Release Engineering at IAG and is also a Microsoft MVP in Cloud and Datacenter Management since 2017, specializing in cloud, automation, DevOps and continuous delivery practices. A software engineer and systems architect for 16 years, Daniel made the move to specializing in DevOps and contemporary delivery practices 6 years ago. He is an passionate evangelist for delivering better value for customers by optimizing how we think about and deliver software and infrastructure. Daniel supports the community by co-organizing the Auckland Azure User Group and writing his own DevOps, Cloud and Automation blog. Daniel is also a regular contributor and maintainer of many Microsoft open source projects as well as running several of his community open source projects focusing on PowerShell, PowerShell DSC and Azure.",
+            "ImageUrl": "/images/DanScottRaynsford.jpg",
             "Social": {
-              "Twitter": "",
-              "Website": "",
-              "LinkedIn": "https://linkedin.com/in/marcelinor"
+              "Twitter": "https://twitter.com/dscottraynsford",
+              "Website": "https://dscottraynsford.wordpress.com/ ",
+              "LinkedIn": "https://www.linkedin.com/in/dscottraynsford/",
+              "GitHub": "https://github.com/PlagueHO"
             }
           }
         },
